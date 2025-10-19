@@ -55,36 +55,30 @@
 </tr>
 </table>
 
-## GitHub Analytics
+## GitHub Statistics
+
+<div align="center">
 
 <table>
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=XxxKMSxxX&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_title=true" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XxxKMSxxX&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
 </td>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxxKMSxxX&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide_title=true" />
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=XxxKMSxxX&theme=tokyonight&hide_border=true" />
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=XxxKMSxxX&theme=tokyo-night&hide_border=true&hide_title=true" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XxxKMSxxX&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </td>
 </tr>
 </table>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=XxxKMSxxX&theme=tokyonight&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=XxxKMSxxX&theme=tokyo-night&hide_border=true)
+
+</div>
 
 ## Expertise Areas
 
@@ -120,33 +114,46 @@
 </tr>
 </table>
 
-## Skills Matrix
+## Skills Overview
 
-```mermaid
-mindmap
-  root((Skills))
-    Languages
-      Python
-      TypeScript
-      Rust
-      SQL
-    Web Stack
-      React/Next.js
-      FastAPI
-      PostgreSQL
-      Prisma
-    ML/AI
-      Time Series
-      scikit-learn
-      TensorFlow
-      Jupyter
-    DevOps
-      Kubernetes
-      Terraform
-      Docker
-      AWS
-      ArgoCD
-```
+<table>
+<tr>
+<td width="25%" align="center">
+<img src="https://skillicons.dev/icons?i=python,typescript,rust,javascript" /><br>
+<b>Languages</b>
+</td>
+<td width="25%" align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html" /><br>
+<b>Frontend</b>
+</td>
+<td width="25%" align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,postgres,prisma" /><br>
+<b>Backend</b>
+</td>
+<td width="25%" align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,jupyter" /><br>
+<b>AI/ML</b>
+</td>
+</tr>
+<tr>
+<td width="25%" align="center">
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare" /><br>
+<b>Cloud</b>
+</td>
+<td width="25%" align="center">
+<img src="https://skillicons.dev/icons?i=kubernetes,docker,terraform,ansible" /><br>
+<b>DevOps</b>
+</td>
+<td width="25%" align="center">
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode" /><br>
+<b>Tools</b>
+</td>
+<td width="25%" align="center">
+<img src="https://skillicons.dev/icons?i=linux,bash,vim,regex" /><br>
+<b>System</b>
+</td>
+</tr>
+</table>
 
 ## Achievements
 
@@ -156,16 +163,13 @@ mindmap
 
 </div>
 
-## Detailed Analytics
+## Activity Overview
+
+<div align="center">
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XxxKMSxxX&theme=tokyonight)
 
 <table>
-<tr>
-<td colspan="2">
-
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XxxKMSxxX&theme=tokyonight)
-
-</td>
-</tr>
 <tr>
 <td width="50%">
 
@@ -178,24 +182,16 @@ mindmap
 
 </td>
 </tr>
-<tr>
-<td width="50%">
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=XxxKMSxxX&theme=tokyonight)
-
-</td>
-<td width="50%">
-
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=XxxKMSxxX&theme=tokyonight)
-
-</td>
-</tr>
 </table>
+
+</div>
 
 ---
 
 <div align="center">
 
-**[XxxKMSxxX](https://github.com/XxxKMSxxX)**
+**Thanks for visiting!**
+
+[![GitHub](https://img.shields.io/badge/-@XxxKMSxxX-181717?style=flat-square&logo=github)](https://github.com/XxxKMSxxX)
 
 </div>
