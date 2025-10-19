@@ -68,20 +68,20 @@
 <tr>
 <td width="50%">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XxxKMSxxX&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XxxKMSxxX&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
 </td>
 <td width="50%">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XxxKMSxxX&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XxxKMSxxX&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 </td>
 </tr>
 </table>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=XxxKMSxxX&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=XxxKMSxxX&theme=radical&hide_border=true)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=XxxKMSxxX&theme=tokyo-night&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=XxxKMSxxX&theme=github-compact&hide_border=true&bg_color=0d1117&color=ff006e&line=ff006e&point=ffffff)
 
 </div>
 
@@ -123,7 +123,7 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=XxxKMSxxX&theme=tokyonight&no-frame=true&row=2&column=6&margin-w=15&margin-h=15)
+![Trophies](https://github-profile-trophy.vercel.app/?username=XxxKMSxxX&theme=radical&no-frame=true&row=2&column=6&margin-w=15&margin-h=15)
 
 </div>
 
@@ -131,18 +131,18 @@
 
 <div align="center">
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XxxKMSxxX&theme=tokyonight)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XxxKMSxxX&theme=radical)
 
 <table>
 <tr>
 <td width="50%">
 
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=XxxKMSxxX&theme=tokyonight)
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=XxxKMSxxX&theme=radical)
 
 </td>
 <td width="50%">
 
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=XxxKMSxxX&theme=tokyonight)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=XxxKMSxxX&theme=radical)
 
 </td>
 </tr>
