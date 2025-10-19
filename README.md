@@ -123,7 +123,7 @@
 <b>Languages</b>
 </td>
 <td width="25%" align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,css" /><br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html" /><br>
 <b>Frontend</b>
 </td>
 <td width="25%" align="center">
@@ -131,33 +131,28 @@
 <b>Backend</b>
 </td>
 <td width="25%" align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn" /><br>
-<img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /><br>
-<b>Data Science</b>
+<img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform" /><br>
+<b>Cloud & DevOps</b>
 </td>
 </tr>
 <tr>
 <td width="25%" align="center">
-<img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform" /><br>
-<b>Cloud & DevOps</b>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jest" /><br>
+<b>Development Tools</b>
 </td>
 <td width="25%" align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode" /><br>
-<img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /><br>
-<b>Tools</b>
+<img src="https://skillicons.dev/icons?i=redis,linux,bash" /><br>
+<img src="https://img.shields.io/badge/-OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" /><br>
+<b>Data & System</b>
 </td>
-<td width="25%" align="center">
-<img src="https://skillicons.dev/icons?i=redis" /><br>
-<img src="https://img.shields.io/badge/-OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" />
-<img src="https://img.shields.io/badge/-Dify-FF6B6B?style=for-the-badge&logoColor=white" /><br>
-<b>Data & Cache</b>
-</td>
-<td width="25%" align="center">
-<img src="https://skillicons.dev/icons?i=linux,bash" /><br>
-<img src="https://img.shields.io/badge/-Makefile-427819?style=for-the-badge&logo=gnu&logoColor=white" />
-<img src="https://img.shields.io/badge/-Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" /><br>
-<b>System</b>
+<td colspan="2" align="center">
+<img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/-Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/-Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" />
+<img src="https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" /><br>
+<b>Libraries & Frameworks</b>
 </td>
 </tr>
 </table>
