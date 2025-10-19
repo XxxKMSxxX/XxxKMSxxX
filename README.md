@@ -123,7 +123,7 @@
 <b>Languages</b>
 </td>
 <td width="25%" align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html" /><br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,css" /><br>
 <b>Frontend</b>
 </td>
 <td width="25%" align="center">
@@ -131,25 +131,32 @@
 <b>Backend</b>
 </td>
 <td width="25%" align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,jupyter" /><br>
-<b>AI/ML</b>
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn" /><br>
+<img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /><br>
+<b>Data Science</b>
 </td>
 </tr>
 <tr>
 <td width="25%" align="center">
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare" /><br>
-<b>Cloud</b>
+<img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform" /><br>
+<b>Cloud & DevOps</b>
 </td>
 <td width="25%" align="center">
-<img src="https://skillicons.dev/icons?i=kubernetes,docker,terraform,ansible" /><br>
-<b>DevOps</b>
-</td>
-<td width="25%" align="center">
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode" /><br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" /><br>
+<img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /><br>
 <b>Tools</b>
 </td>
 <td width="25%" align="center">
-<img src="https://skillicons.dev/icons?i=linux,bash,vim,regex" /><br>
+<img src="https://skillicons.dev/icons?i=redis" /><br>
+<img src="https://img.shields.io/badge/-OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" />
+<img src="https://img.shields.io/badge/-Dify-FF6B6B?style=for-the-badge&logoColor=white" /><br>
+<b>Data & Cache</b>
+</td>
+<td width="25%" align="center">
+<img src="https://skillicons.dev/icons?i=linux,bash" /><br>
+<img src="https://img.shields.io/badge/-Makefile-427819?style=for-the-badge&logo=gnu&logoColor=white" />
+<img src="https://img.shields.io/badge/-Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" /><br>
 <b>System</b>
 </td>
 </tr>
